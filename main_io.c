@@ -21,7 +21,7 @@ unsigned int rez;
 
 
 
-
+// версия WinAVR-20100110
 int main (void)
 {
 // init_ports
